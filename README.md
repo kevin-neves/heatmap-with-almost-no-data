@@ -1,7 +1,7 @@
 # Create a heatmap with almost no data at all
 How to create a heatmap by generating data with R and Python. 
 
-In this project, you will be able to generate data in order to crete a heatmap with an awesome resolution.
+In this project, you will be able to generate data in order to create a heatmap with an awesome resolution.
 
 ## Requirements: 
 
